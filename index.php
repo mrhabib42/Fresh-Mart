@@ -1,4 +1,5 @@
 <?php include_once('database/connection.php') ?>
+<?php echo "hello"?>
 <!DOCTYPE html>
 <html lang="zxx">
 
